@@ -176,12 +176,11 @@ module.exports = React.createClass({
   //     this.setState({lastIndex: endIndex});
   // },
   selectRow: function(row){
-    console.log(row);
-    // this.props.navigator.push({
-    //   id: 'Post',
-    //   title: "Top Story #"+row.count,
-    //   post: row,
-    // });
+    this.props.navigator.push({
+      id: 'BookDetail',
+      title: row.bookName + ' 详情',
+      book: row,
+    });
   }
 });
 

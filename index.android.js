@@ -8,16 +8,51 @@ var React = require('react-native');
 
 var {
   AppRegistry,
-  Component,
   StyleSheet,
+  Navigator,
+  BackAndroid
 } = React;
 
 var BookShelf = require('./App/Views/BookShelf.js');
+var BookDetail = require('./App/Views/BookDetail.js');
+
+var _navigator;
+
+BackAndroid.addEventListener('hardwareBackPress', () => {
+  if (_navigator.getCurrentRoutes().length === 1  ) {
+     return false;
+  }
+  _navigator.pop();
+  return true;
+});
 
 var BookFinder = React.createClass({
   render: function() {
-    return (<BookShelf/>);
+    return (
+      <Navigator
+        style={styles.container}
+        tintColor='#FF6600'
+        initialRoute={{id: 'BookShelf'}}
+        renderScene={this.navigatorRenderScene}/>
+    );
+  },
+  navigatorRenderScene: function(route, navigator){
+    _navigator = navigator;
+    switch (route.id) {
+      case 'BookShelf':
+        return (<BookShelf navigator={navigator} />);
+      case 'BookDetail':
+        console.log('book detail');
+        return (<BookDetail navigator={navigator} title={route.title} book={route.book}/>);
+    }
   }
+});
+
+var styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#F6F6EF',
+  },
 });
 
 AppRegistry.registerComponent('BookFinder', () => BookFinder);

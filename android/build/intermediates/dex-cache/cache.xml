@@ -2,32 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.19.1/jars/libs/infer-annotations-1.5.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
-        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-330f42da758c9e5ad46d4cbd89f901917ce49bc2.jar" />
-    </item>
-    <item
-        jar="/Users/z/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-29129e137d8c486f1cf0f683ad4bfe692c711648.jar" />
-    </item>
-    <item
-        jar="/Users/z/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
-        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-0f0dfc6f6002e526bb5f491c6594224a28111868.jar" />
-    </item>
-    <item
-        jar="/Users/z/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
-        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-99600ffb55dcd09abb7dce5dc4127957d195a978.jar" />
+        sha1="d773b5e00673854250db5b7e085d47e649f2e7a7">
+        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-bf73b007328f9911b33c033e1756c75d53ef618f.jar" />
     </item>
     <item
         jar="/Users/z/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
@@ -37,32 +16,25 @@
         <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2-a5fd1cbe5d39de1bff841e79ad9bec618b12dc94.jar" />
     </item>
     <item
-        jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jar="/Users/z/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-663bd9cb553cb446234c6a8ce2cbc3a7e9478584.jar" />
+    </item>
+    <item
+        jar="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-4c7bb70a57e3ba149bd6c2760a327bc5d1e929d8.jar" />
+    </item>
+    <item
+        jar="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="4af24c040b21980e0a80a505816c648e36705bd9">
-        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-5d5db54c18b4dcfcb1fa5bdb34f37242bc5731ff.jar" />
-    </item>
-    <item
-        jar="/Users/z/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
-        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-a2e5f6ed7d8af9371414661cfe7b04a5dee68ae7.jar" />
-    </item>
-    <item
-        jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
-        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-e5571a46de981c5172dda20020a948e3dee03825.jar" />
-    </item>
-    <item
-        jar="/Users/z/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-76aa0afb778533d65fbe37f7266617d143469f44.jar" />
+        <dex dex="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-1831f39ae4b66ab39825bd74a257f0e6179677a9.jar" />
     </item>
     <item
         jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.19.1/jars/classes.jar"
@@ -72,32 +44,32 @@
         <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-9af66679b155eb9b773bcc09a84f132976a2a5cc.jar" />
     </item>
     <item
+        jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-f5b0303d22b6207272e0d35fb37120358bc283fe.jar" />
+    </item>
+    <item
+        jar="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-e9eb0aef20af7cdf7b50b079c5d49f44f6e13c6d.jar" />
+    </item>
+    <item
+        jar="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.19.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d1ad89d55d86e7d9b753ca9d028aa14a83c18006">
+        <dex dex="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-73b1a6db55f314020342f1ac053f981eb17cc022.jar" />
+    </item>
+    <item
         jar="/Users/z/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
         <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-a8adad443ed0f64e11492073f4f06c9e2580f071.jar" />
-    </item>
-    <item
-        jar="/Users/z/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
-        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-01785e41341bce487f8f3ecdaa74ceedd44be481.jar" />
-    </item>
-    <item
-        jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.19.1/jars/libs/infer-annotations-1.5.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d773b5e00673854250db5b7e085d47e649f2e7a7">
-        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-bf73b007328f9911b33c033e1756c75d53ef618f.jar" />
-    </item>
-    <item
-        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-83cbd8867bbfafb64844edcdc4bcc0a8099d3359.jar" />
     </item>
     <item
         jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
@@ -107,11 +79,67 @@
         <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-87e9d35f80f8730cb53bc617dc9667d4c173ef9a.jar" />
     </item>
     <item
-        jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jar="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
-        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-82603e06a931de70489a9b91a5d4d169b62b532b.jar" />
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-f6d01c04449030a7597fac1bd06565a730e3b099.jar" />
+    </item>
+    <item
+        jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-330f42da758c9e5ad46d4cbd89f901917ce49bc2.jar" />
+    </item>
+    <item
+        jar="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-8de176cbf77046fba5c1213352032f7d001016c6.jar" />
+    </item>
+    <item
+        jar="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-ace01106c80398f0075dd6bf6647ff9534dca62a.jar" />
+    </item>
+    <item
+        jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-5d5db54c18b4dcfcb1fa5bdb34f37242bc5731ff.jar" />
+    </item>
+    <item
+        jar="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-8c37b85f404d4d11b3c26af2a397257d9cbb59c7.jar" />
+    </item>
+    <item
+        jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-3e954e37eee3275036a07b6e7c07da12cd5dd9bb.jar" />
+    </item>
+    <item
+        jar="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-48a7138dc726561818b481b2d70344388ad7eadf.jar" />
+    </item>
+    <item
+        jar="/Users/z/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-29129e137d8c486f1cf0f683ad4bfe692c711648.jar" />
     </item>
     <item
         jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
@@ -121,18 +149,39 @@
         <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-a9d7bedb63bb218af7e49a1a24b099e884ced397.jar" />
     </item>
     <item
-        jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jar="/Users/z/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-f5b0303d22b6207272e0d35fb37120358bc283fe.jar" />
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-01785e41341bce487f8f3ecdaa74ceedd44be481.jar" />
     </item>
     <item
-        jar="/Users/z/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-663bd9cb553cb446234c6a8ce2cbc3a7e9478584.jar" />
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-82603e06a931de70489a9b91a5d4d169b62b532b.jar" />
+    </item>
+    <item
+        jar="/Users/z/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-76aa0afb778533d65fbe37f7266617d143469f44.jar" />
+    </item>
+    <item
+        jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-e5571a46de981c5172dda20020a948e3dee03825.jar" />
+    </item>
+    <item
+        jar="/Users/z/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-0f0dfc6f6002e526bb5f491c6594224a28111868.jar" />
     </item>
     <item
         jar="/Users/z/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
@@ -142,18 +191,46 @@
         <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0-23dc5ba0162cb0eae6602e56c3f313b8d931df89.jar" />
     </item>
     <item
+        jar="/Users/z/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-99600ffb55dcd09abb7dce5dc4127957d195a978.jar" />
+    </item>
+    <item
+        jar="/Users/z/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-a2e5f6ed7d8af9371414661cfe7b04a5dee68ae7.jar" />
+    </item>
+    <item
+        jar="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.19.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d773b5e00673854250db5b7e085d47e649f2e7a7">
+        <dex dex="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-6353fd43e6cbe9ad49018eb336562f3c31dbbbe3.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-83cbd8867bbfafb64844edcdc4bcc0a8099d3359.jar" />
+    </item>
+    <item
+        jar="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/z/Documents/projects/MyOpenSource/BookFinder/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-6a2baa3448231d10212598bd26159754c22871f6.jar" />
+    </item>
+    <item
         jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="845a5b3a624946b2068963ba656c117fc453701c">
         <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/classes-003031a2e8c4f0c2e2a21dbfbc349b20567639a3.jar" />
-    </item>
-    <item
-        jar="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/z/Documents/study/react-native/BookFinder/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-3e954e37eee3275036a07b6e7c07da12cd5dd9bb.jar" />
     </item>
 
 </items>
