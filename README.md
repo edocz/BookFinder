@@ -5,10 +5,13 @@
 Book finder for iOS and Android, made with [React-Native](https://github.com/facebook/react-native).
 
 ##Features/Components
-- Uses React Native 0.19
-- Pull down to Refresh listview (only iOS)
-- Pagination listview (iOS and Android)
-- TODO: search
+* [X] Pull down to Refresh listview (only iOS).
+* [X] Pagination listview (iOS and Android).
+* [ ] Book search.
+* [ ] Book recommend.
+* [ ] EBook download.
+* [ ] EBook reading online.
+* [ ] Shell: run command on the server
 
 ##Installation
 Once you have downloaded or cloned this repository, run `npm install` inside the directory.
