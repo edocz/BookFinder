@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/z/Documents/study/react-native/BookFinder/ios/BookFinderTests/BookFinderTests.m \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/ios/BookFinderTests/BookFinderTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementQuery.h \

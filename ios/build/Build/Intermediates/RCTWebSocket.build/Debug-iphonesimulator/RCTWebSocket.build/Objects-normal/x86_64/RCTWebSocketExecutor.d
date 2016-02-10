@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/WebSocket/RCTWebSocketExecutor.m \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/WebSocket/RCTWebSocketExecutor.m \
   ../../React/Base/RCTDefines.h \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/WebSocket/RCTWebSocketExecutor.h \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/WebSocket/RCTWebSocketExecutor.h \
   ../../React/Base/RCTJavaScriptExecutor.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTInvalidating.h \
   ../../React/Base/RCTConvert.h ../../React/Layout/Layout.h \
@@ -10,4 +10,4 @@ dependencies: \
   ../../React/Views/RCTTextDecorationLineType.h \
   ../../React/Base/RCTLog.h ../../React/Base/RCTAssert.h \
   ../../React/Views/RCTPointerEvents.h ../../React/Base/RCTUtils.h \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h

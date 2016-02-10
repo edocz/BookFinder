@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/Text/RCTText.m \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/Text/RCTText.h \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/Text/RCTShadowText.h \
   ../../React/Views/RCTShadowView.h ../../React/Layout/Layout.h \
   ../../React/Views/RCTComponent.h ../../React/Base/RCTRootView.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \

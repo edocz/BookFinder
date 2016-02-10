@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/Text/RCTTextFieldManager.m \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/Text/RCTTextFieldManager.h \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/Text/RCTTextFieldManager.m \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/Text/RCTTextFieldManager.h \
   ../../React/Views/RCTViewManager.h ../../React/Base/RCTBridgeModule.h \
   ../../React/Base/RCTDefines.h ../../React/Base/RCTConvert.h \
   ../../React/Layout/Layout.h ../../React/Views/RCTAnimationType.h \
@@ -13,4 +13,4 @@ dependencies: \
   ../../React/Base/RCTInvalidating.h \
   ../../React/Base/RCTJavaScriptExecutor.h \
   ../../React/Views/RCTShadowView.h ../../React/Base/RCTRootView.h \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/Text/RCTTextField.h
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/Text/RCTTextField.h

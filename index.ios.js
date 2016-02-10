@@ -9,14 +9,51 @@ var React = require('react-native');
 var {
   AppRegistry,
   Component,
+  View,
   StyleSheet,
 } = React;
+
+var SearchBar = require('react-native-search-bar');
 
 var BookShelf = require('./App/Views/BookShelf.js');
 
 var BookFinder = React.createClass({
   render: function() {
-    return (<BookShelf/>);
+    return (
+      <View>
+        <View style={styles.searchBar}>
+          <SearchBar
+            ref='searchBar'
+            placeholder='搜索'
+            textFieldBackgroundColor='white'
+            onChangeText={(text)=>this.setState({text})}
+            onSearchButtonPress={()=>this.onSearch()}
+            onCancelButtonPress={()=>this.onCancel()}
+          />
+        </View>
+        <View style={styles.bookShelf}>
+          <BookShelf/>
+        </View>
+      </View>
+    );
+  },
+
+  onSearch: function() {
+    console.log(this.refs.searchBar);
+  },
+
+  onCancel: function() {
+    console.log('cancel');
+  }
+});
+
+var styles = StyleSheet.create({
+  searchBar: {
+    marginTop: 25,
+    backgroundColor: '#ffffff',
+  },
+  bookShelf: {
+    marginTop: 5
   }
 });
 

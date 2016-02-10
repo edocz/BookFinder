@@ -29,7 +29,7 @@ module.exports = React.createClass({
         <RefreshableListView renderRow={(row)=>this.renderListViewRow(row)}
                                      onRefresh={(page, callback)=>this.listViewOnRefresh(page, callback)}
                                      backgroundColor={'#F6F6EF'}
-                                     loadMoreText={'Load More...'}/>
+                                     loadMoreText={'加载更多...'}/>
       </View>
     );
     // return(
@@ -49,9 +49,7 @@ module.exports = React.createClass({
           <TouchableHighlight underlayColor={'#f3f3f2'}
                               onPress={()=>this.selectRow(row)}>
             <View style={styles.rowContainer}>
-                <Text style={styles.rowCount}>
 
-                </Text>
                 <View style={styles.rowDetailsContainer}>
                     <Text style={styles.rowTitle}>
                         {row.bookName}
@@ -189,7 +187,7 @@ var styles = StyleSheet.create({
       flex: 1
     },
     toolbar: {
-      height: 56,
+      height: 10,
       backgroundColor: '#FF6600'
     },
     rowContainer:{
@@ -201,11 +199,12 @@ var styles = StyleSheet.create({
         fontSize: 20,
         textAlign: 'right',
         color: 'gray',
-        margin: 10,
+        height: 5,
         marginLeft: 15,
     },
     rowDetailsContainer: {
         flex: 1,
+        marginLeft: 15,
     },
     rowTitle: {
         fontSize: 15,

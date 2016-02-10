@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/Network/RCTNetInfo.m \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/Network/RCTNetInfo.h \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/Network/RCTNetInfo.m \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/Network/RCTNetInfo.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
   ../../React/Base/RCTAssert.h ../../React/Base/RCTBridge.h \
   ../../React/Base/RCTBridgeDelegate.h ../../React/Base/RCTFrameUpdate.h \

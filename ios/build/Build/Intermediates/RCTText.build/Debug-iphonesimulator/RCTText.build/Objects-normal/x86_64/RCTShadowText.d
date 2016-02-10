@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/Text/RCTShadowText.m \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/Text/RCTShadowText.m \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/Text/RCTShadowText.h \
   ../../React/Views/RCTShadowView.h ../../React/Layout/Layout.h \
   ../../React/Views/RCTComponent.h ../../React/Base/RCTRootView.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \
@@ -15,6 +15,6 @@ dependencies: \
   ../../React/Base/RCTAssert.h ../../React/Views/RCTPointerEvents.h \
   ../../React/Base/RCTEventDispatcher.h \
   ../../React/Views/RCTImageComponent.h \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/Text/RCTText.h \
   ../../React/Base/RCTUtils.h

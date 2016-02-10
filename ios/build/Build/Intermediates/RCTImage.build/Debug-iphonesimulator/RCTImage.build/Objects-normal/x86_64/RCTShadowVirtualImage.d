@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/Image/RCTShadowVirtualImage.m \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/Image/RCTShadowVirtualImage.h \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/Image/RCTShadowVirtualImage.m \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/Image/RCTShadowVirtualImage.h \
   ../../React/Views/RCTShadowView.h ../../React/Layout/Layout.h \
   ../../React/Views/RCTComponent.h ../../React/Base/RCTRootView.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \
@@ -14,7 +14,7 @@ dependencies: \
   ../../React/Views/RCTTextDecorationLineType.h \
   ../../React/Base/RCTLog.h ../../React/Base/RCTAssert.h \
   ../../React/Views/RCTPointerEvents.h \
-  /Users/z/Documents/study/react-native/BookFinder/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
+  /Users/z/Documents/projects/MyOpenSource/BookFinder/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
   ../../React/Base/RCTURLRequestHandler.h \
   ../../React/Base/RCTURLRequestDelegate.h \
   ../../React/Modules/RCTUIManager.h ../../React/Views/RCTViewManager.h \
