@@ -10,22 +10,34 @@ var {
 } = React;
 
 var ToolbarAndroid = require('ToolbarAndroid');
+var SearchBar = require('react-native-search-bar');
 
 var api = require("../WebApi/api.js");
 var util = require("../Util/util.js");
 
 var RefreshableListView = require("../Components/RefreshableListView");
 
+var searchQuery = '%';
+
 module.exports = React.createClass({
   getInitialState: function(){
     return {
         count: 0,
-        lastIndex: 0
+        lastIndex: 0,
+        searchQuery: searchQuery
     };
   },
   render: function(){
     return (
       <View style={styles.container}>
+        <SearchBar
+          ref='searchBar'
+          placeholder='搜索'
+          textFieldBackgroundColor='white'
+          onChangeText={(text)=> searchQuery= ('%' + text + '%')}
+          onSearchButtonPress={()=>this.setState({searchQuery: searchQuery})}
+          onCancelButtonPress={()=>console.log('canceled')}
+        />
         <RefreshableListView renderRow={(row)=>this.renderListViewRow(row)}
                                      onRefresh={(page, callback)=>this.listViewOnRefresh(page, callback)}
                                      backgroundColor={'#F6F6EF'}
@@ -64,7 +76,7 @@ module.exports = React.createClass({
       );
   },
   listViewOnRefresh: function(page, callback){
-    this.fetchBooksUsingBookCIPs(this.state.bookCIPs, this.state.lastIndex, 15, callback);
+    this.fetchBooksUsingBookCIPs(this.state.searchQuery, this.state.lastIndex, 15, callback);
     // if (page != 1 && this.state.bookCIPs){
     //     this.fetchBooksUsingBookCIPs(this.state.bookCIPs, this.state.lastIndex, 5, callback);
     // }
@@ -100,7 +112,7 @@ module.exports = React.createClass({
       //   .done();
       // }
   },
-  fetchBooksUsingBookCIPs: function(bookCIPs, startIndex, amountToAdd, callback){
+  fetchBooksUsingBookCIPs: function(searchQuery, startIndex, amountToAdd, callback){
     var rowsData = [];
     var endIndex = startIndex + amountToAdd;
     fetch(api.ZAC_BOOKS_ENDPOINT, {
@@ -111,14 +123,15 @@ module.exports = React.createClass({
       },
       body: JSON.stringify({
         skip: startIndex,
-        limit: amountToAdd
+        limit: amountToAdd,
+        bookName: searchQuery,
       })
     })
     .then((response) => response.json())
     .then((row) => {
       rowsData = rowsData.concat(row);
       startIndex = rowsData.length;
-      this.setState({lastIndex: endIndex, bookCIPs: rowsData});
+      this.setState({lastIndex: endIndex, count: endIndex});
       callback(rowsData);
     })
     .done();
